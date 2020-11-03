@@ -1,8 +1,5 @@
 Esta el la historia de Ismael Alonso
 
-Ismael tiene 28 años y nació en Mexico,
-estudio Ingeniería en Computación
+Ismael tiene 28 años y nació en México
 
-Fue de vacaciones a Playa del Carmen
-
-Trabaja como Consultor Backend
+Le gusta el desarrollo de software y quiere ser Arquitecto de Software 
