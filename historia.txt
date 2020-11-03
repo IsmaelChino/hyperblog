@@ -4,3 +4,5 @@ Ismael tiene 28 años y nació en Mexico,
 estudio Ingeniería en Computación
 
 Fue de vacaciones a Playa del Carmen
+
+Trabaja como Consultor Backend
